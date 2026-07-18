@@ -46,7 +46,7 @@ The CSV file is **not included** in this repository (large file, subject to the 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eafc26-scout-bot.git
+git clone https://github.com/efegnd/eafc26-scout-bot.git
 cd eafc26-scout-bot
 pip install -r requirements.txt
 ```

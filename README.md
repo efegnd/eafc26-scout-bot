@@ -77,5 +77,8 @@ The script will:
 
 ## Author
 
-Efe Günduğar — Mathematical Engineering student at Yıldız Technical University.
+## Author
+
+**Efe Günduğar** — Mathematical Engineering student at Yıldız Technical University.
+
 Built as a learning project while studying pandas and data visualization fundamentals.
